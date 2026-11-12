@@ -61,8 +61,8 @@ penguin_images = {
     "Adelie": "https://commons.wikimedia.org/wiki/Special:FilePath/Hope_Bay-2016-Trinity_Peninsula–Adélie_penguin_(Pygoscelis_adeliae)_04.jpg?width=1000",
     "Chinstrap": "https://commons.wikimedia.org/wiki/Special:FilePath/A_chinstrap_penguin_(Pygoscelis_antarcticus)_on_Deception_Island_in_Antarctica.jpg?width=1000",
     "Gentoo": "https://commons.wikimedia.org/wiki/Special:FilePath/Brown_Bluff-2016-Tabarin_Peninsula–Gentoo_penguin_(Pygoscelis_papua)_03.jpg?width=1000",
-    "Emperor": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor_penguin_(Aptenodytes_forsteri).jpg?width=1000",
-    "King": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Penguin_(Aptenodytes_patagonicus).jpg?width=1000"
+    "Emperor": "https://commons.wikimedia.org/wiki/Special:FilePath/Penguin_in_Antarctica_jumping_out_of_the_water.jpg?width=1000",
+    "King": "https://commons.wikimedia.org/wiki/Special:FilePath/Falkland_Islands_Penguins_08.jpg?width=1000"
 }
 
 # Penguin Information For Each Species
